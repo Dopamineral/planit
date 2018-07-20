@@ -1,0 +1,32 @@
+celbio1: 17 hours weekly
+celbio2: 17 hours weekly
+anatomie: 8 hours weekly
+wissenshaft: 4 hours weekly
+filosofie: 5 hours weekly
+
+amount of work to get through celbio book: 100 hours or 8 hours weekly
+amount of work to get through all anatomy books: 400 hours or 31 hours weekly
+amount of work to get through philosophy book: 38 hours or 3 hours weekly
+amount of work to get through wissenshaft slides: 20 hours or 2 hours weekly
+---
+weekly load = 94 hours
+---
+
+Go and figure out how to do the 80% most important stuff of Celbio1 course weekly in 7 hours. Good luck!
+Go and figure out how to do the 80% most important stuff of Celbio2 course weekly in 7 hours. Good luck!
+Go and figure out how to do the 80% most important stuff of anatomy course weekly in 3 hours. Good luck!
+Go and figure out how to do the 80% most important stuff of wissenshaft course weekly in 2 hours. Good luck!
+Go and figure out how to do the 80% most important stuff of filosofie course weekly in 2 hours. Good luck!
+
+Go and figure out how to do the 80% most important stuff of celbio book in 3 hours. Good luck!
+Go and figure out how to do the 80% most important stuff of anatomy book weekly in 12 hours. Good luck!
+---
+Go and figure out how to do the 80% most important stuff of Weekly LOAD in 38 hours. Good luck!
+---
+Remeber! If you feel like you're spinning your wheels, you're wasting your time.
+ Progress with the maximum yield stuff or go do something fun.
+
+My study load (perfectionistic): 1221.0 hours, 93.92307692307692 hours per week
+My 20 - 80 study load: 488 hours, 38 hours per week
+Kuleuven recommended load: 787.5 to 945.0 hours, 53 to 63 hours per week
+[Finished in 0.3s]
